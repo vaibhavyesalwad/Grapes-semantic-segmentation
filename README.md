@@ -1,7 +1,9 @@
 # Semantic Segmenation of grapes using UNet Architecture
 
 Used google colab for training of model
+
 "Grapes-segmentation-unet.ipynb"
+
 Steps for implementation:
 1. Uploading grapes-dataset.zip in Segmentation-grapes folder of google drive
 2. Loading dataset to VM of google colab from google drive
